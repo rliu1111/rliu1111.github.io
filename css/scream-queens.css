@@ -1,0 +1,23 @@
+/*========================================================
+                        scream-queens
+=========================================================*/
+.scream-queens_container .brand{
+    position: relative;
+    padding-bottom: 51.3598327%;
+  }
+
+.scream-queens_container .brand_name {
+    padding: 0 20px 15px;
+    display: inline-block;
+    overflow: hidden;
+    font-family: 'Yesteryear', cursive;
+    font-size: 200px;
+    line-height: 220px;
+    font-weight: 400;
+    color: #ffffff;
+  }
+
+  .fadeIn {
+    -webkit-animation-name: fadeIn;
+    animation-name: fadeIn;
+  }
