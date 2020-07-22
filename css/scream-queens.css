@@ -1,6 +1,11 @@
 /*========================================================
                         scream-queens
 =========================================================*/
+.page {
+    overflow: hidden;
+    min-height: 500px;
+  }
+
 .scream-queens_container .brand{
     position: relative;
     padding-bottom: 51.3598327%;
